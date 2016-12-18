@@ -59,12 +59,15 @@ We decided to implement a keymap that inserts on the text buffer the current dat
 First we added the key map 'ctrl-alt-d' to all the operating systems in the keymaps folder.
 Then in 'register-default-commands.coffee' we added the function insert-date which is called after the keymap is pressed.
 We added the following code:
-
-
+![Image](https://raw.githubusercontent.com/pedro-c/atom/ESOF-Docs/ESOF%20-%20docs/res/6.PNG)
+![Image](https://raw.githubusercontent.com/pedro-c/atom/ESOF-Docs/ESOF%20-%20docs/res/2.PNG)
+![Image](https://raw.githubusercontent.com/pedro-c/atom/ESOF-Docs/ESOF%20-%20docs/res/3.PNG)
+![Image](https://raw.githubusercontent.com/pedro-c/atom/ESOF-Docs/ESOF%20-%20docs/res/4.PNG)
+![Image](https://raw.githubusercontent.com/pedro-c/atom/ESOF-Docs/ESOF%20-%20docs/res/5.PNG)
 <a name="pull-request"/>
 ### Pull Request
 After testing locally our build we made a pull request to the atom repository adding our changes. It successfully completed all tests.
-
+![Image](https://raw.githubusercontent.com/pedro-c/atom/ESOF-Docs/ESOF%20-%20docs/res/7.PNG)
 <a name="conclusion"/>
 ## Conclusion
 
