@@ -64,13 +64,16 @@ We added the following code:
 ![Image](https://raw.githubusercontent.com/pedro-c/atom/ESOF-Docs/ESOF%20-%20docs/res/3.PNG)
 ![Image](https://raw.githubusercontent.com/pedro-c/atom/ESOF-Docs/ESOF%20-%20docs/res/4.PNG)
 ![Image](https://raw.githubusercontent.com/pedro-c/atom/ESOF-Docs/ESOF%20-%20docs/res/5.PNG)
+
 <a name="pull-request"/>
 ### Pull Request
 After testing locally our build we made a pull request to the atom repository adding our changes. It successfully completed all tests.
+
 ![Image](https://raw.githubusercontent.com/pedro-c/atom/ESOF-Docs/ESOF%20-%20docs/res/7.PNG)
 <a name="conclusion"/>
-## Conclusion
 
+## Conclusion
+The most difficult part about implementing this feature was testing it, because we add to  compile atom and install all of the dependencies. The implementation itself required us to understand where was the code that needed change and where to add our feature.
 
 ## Contributions
 
