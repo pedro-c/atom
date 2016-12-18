@@ -46,6 +46,8 @@ To discuss atom software maintainability, we use SIG metrics. There are eight di
 
 After analyzing the results on atom software we can conclude that atom code is very maintainable and allows new implementation very easily.A very good result given that the atom is a open-source project.
 
+PS: If you cannot open the results on the bettercodehub website use this [link](https://github.com/pedro-c/atom/blob/ESOF-Docs/ESOF%20-%20docs/res/atomBetterCodeHubAnalysis.pdf)
+
 <a name="Implementation-of-a-Feature"/>
 ## Implementation of a Feature
 
