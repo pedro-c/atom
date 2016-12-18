@@ -53,14 +53,17 @@ PS: If you cannot open the results on the bettercodehub website use this [link](
 
 <a name="identification"/>
 ### Identification
-We decided to implement a keymap that inserts on the text buffer the current date. So when the user presses 'ctrl-alt-d' the current date is automatically added in the current position of the cursor. 
+We decided to implement a keymap that inserts on the text buffer the current date. So when the user presses 'ctrl-alt-d' the current date is automatically added in the current position of the cursor.
 <a name="implementation"/>
 ### Implementation
 First we added the key map 'ctrl-alt-d' to all the operating systems in the keymaps folder.
 Then in 'register-default-commands.coffee' we added the function insert-date which is called after the keymap is pressed.
+We added the following code:
+
 
 <a name="pull-request"/>
 ### Pull Request
+After testing locally our build we made a pull request to the atom repository adding our changes. It successfully completed all tests.
 
 <a name="conclusion"/>
 ## Conclusion
